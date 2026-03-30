@@ -1,0 +1,6 @@
+DroneID,Model,MaxFlightMinutes,WeightKg
+DR-1,Falcon-A,60,3.2
+DR-2,Falcon-B,50,3.5
+DR-3,Falcon-A,65,3.2
+DR-4,Hawk-X,80,5.1
+DR-5,Falcon-C,55,3.8

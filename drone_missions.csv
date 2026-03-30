@@ -1,0 +1,9 @@
+MissionID,DroneID,OperatorID,MissionType,DurationMinutes,BatteryUsedPercent
+101,DR-1,OP-10,Survey,45,40
+102,DR-2,OP-11,Delivery,30,55
+103,DR-3,OP-12,Inspection,60,65
+104,DR-1,OP-10,Survey,50,45
+105,DR-4,OP-13,Delivery,25,50
+106,DR-2,OP-11,Inspection,70,70
+107,DR-3,OP-14,Survey,40,35
+108,DR-5,OP-15,Delivery,35,60
